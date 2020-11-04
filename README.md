@@ -1,1 +1,1 @@
-# extension.statswork.wiki.
+# extension
